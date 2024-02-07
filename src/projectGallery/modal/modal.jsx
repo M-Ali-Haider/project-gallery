@@ -48,7 +48,7 @@ export default function Modal({modal,projects}) {
           return(
             <div key={`modal_${index}`} className={styles.modal} style={{backgroundColor:color}}>
               <Image
-                src={src}
+                src={`/static/images/${src}`}
                 width={300}
                 height={0}
                 alt='Project Images'
