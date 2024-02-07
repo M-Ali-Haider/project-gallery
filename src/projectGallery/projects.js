@@ -1,7 +1,7 @@
 export const projects=[
     {
         name:'Estrakt',
-        src:'estrakt.webp',
+        src:'https://raw.githubusercontent.com/M-Ali-Haider/project-gallery/main/public/images/estrakt.webp',
         link:'https://estrakt.com',
         color:"#000000",
         tech:'Hostinger & Wordpress',
