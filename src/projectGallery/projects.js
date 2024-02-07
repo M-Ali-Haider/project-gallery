@@ -1,7 +1,7 @@
 export const projects=[
     {
         name:'Estrakt',
-        src:'estrakt.webp',
+        src:'estrakt.png',
         link:'https://estrakt.com',
         color:"#000000",
         tech:'Hostinger & Wordpress',
@@ -9,7 +9,7 @@ export const projects=[
     },
     {
         name:'YoutubeDB',
-        src:'youtubedb.webp',
+        src:'youtubedb.png',
         link:'https://github.com/M-Ali-Haider/YoutubeDB',
         color:"#8c8c8c",
         tech:'MERN',
@@ -17,7 +17,7 @@ export const projects=[
     },
     {
         name:'Gpt',
-        src:'gpt.webp',
+        src:'gpt.png',
         link:'https://m-ali-haider.github.io/gpt/',
         color:"#EFE8D3",
         tech:'ViteJS React',
@@ -25,7 +25,7 @@ export const projects=[
     },
     {
         name:'SQLify',
-        src:'sqlify.webp',
+        src:'sqlify.png',
         link:'https://www.linkedin.com/posts/mah01134212100_made-a-spotify-replica-for-my-4th-semester-activity-7107661297105666048-hO1Z?utm_source=share&utm_medium=member_desktop',
         color:"#706D63",
         tech:'Xampp & PHP',
