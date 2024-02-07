@@ -2,5 +2,6 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding-top: 50px;    
+    padding-top: 50px;
+    height:2500px;
 }
