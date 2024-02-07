@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output:'export',
-    basePath:'/projectGallery',
+    basePath:'/project-gallery',
 };
 export default nextConfig;
